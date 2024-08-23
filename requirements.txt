@@ -1,0 +1,12 @@
+streamlit
+matplotlib
+pandas
+numpy
+# sqlite3
+sentence-transformers
+sklearn
+langchain
+langchain_openai
+langchain_core
+langchain_community
+langchain_experimental
