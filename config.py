@@ -1,2 +1,2 @@
 DATABASE_URI = "sqlite:///healthcare_database.db"
-OPENAI_API_KEY = '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'
+OPENAI_API_KEY = ''
